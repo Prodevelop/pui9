@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>_artifactid_.dto</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.artifactId}</name>
+
+	<parent>
+		<groupId>_groupid_</groupId>
+		<artifactId>_artifactid_</artifactId>
+		<version>_version_</version>
+	</parent>
+
+	<dependencies>
+		<dependency>
+			<groupId>es.prodevelop</groupId>
+			<artifactId>es.prodevelop.pui9.model.dto</artifactId>
+			<version>${pui-project-version}</version>
+		</dependency>
+	</dependencies>
+</project>

@@ -1,0 +1,1 @@
+Place here all the List adapters that implements the interface IListAdapter<T>. Annotate the class with an @Component annotation

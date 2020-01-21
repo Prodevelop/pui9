@@ -1,0 +1,52 @@
+<config>
+	<context-values>
+		<resource path="src/main/resources/versions/1.x.y/templates/dao/TableDao.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/web/Controller.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dao/ITableRepository.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dao/IViewDao.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dao/IViewRepository.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dto/ITableDto.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dto/ITableDtoPk.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+			<value key="columns" object-class="java.util.List" item-class="es.prodevelop.codegen.pui9.model.Column"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dao/ViewDao.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dto/IViewDto.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dto/TableDtoPk.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/bo/IService.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/bo/Service.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dao/ITableDao.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dto/ViewDto.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+		<resource path="src/main/resources/versions/1.x.y/templates/dto/TableDto.ftl">
+			<value key="config" object-class="es.prodevelop.codegen.pui9.model.PuiConfiguration"/>
+		</resource>
+	</context-values>
+	<macro-library>
+	</macro-library>
+</config>

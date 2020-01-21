@@ -1,0 +1,3 @@
+Place here all the Listeners that extends the abstract class PuiListener.
+It's recommended to extends directly AbstractCommonListener instead.
+Annotate the class with an @Component annotation.

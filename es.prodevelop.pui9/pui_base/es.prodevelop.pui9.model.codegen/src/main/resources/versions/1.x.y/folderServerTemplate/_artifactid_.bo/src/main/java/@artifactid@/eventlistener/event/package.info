@@ -1,0 +1,2 @@
+Place here all the Events that extends the abstract class PuiEvent.
+Then implement Listeners that will be executed when this event is fired.

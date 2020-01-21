@@ -1,0 +1,8 @@
+1. edit the following file
+	sudo vi /etc/sysctl.conf
+2. add the following line at the end of the file (or replace the attribute if exists)
+	vm.max_map_count=262144
+3. set it via command line (only for the current session)
+	sudo sysctl -w vm.max_map_count=262144
+4. check the current value
+	sysctl vm.max_map_count
