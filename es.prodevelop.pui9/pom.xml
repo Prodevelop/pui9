@@ -44,6 +44,7 @@
 		<plugin-maven-release-version>2.5.3</plugin-maven-release-version>
 		<plugin-maven-war-version>3.2.3</plugin-maven-war-version>
 
+		<project.scm.id>prodevelop-git-server</project.scm.id>
 		<scm-tag-base>https://svn.prodevelop.es/svn/I1803_Framework_PUI9/src/tags</scm-tag-base>
 		<scm-branch-base>https://svn.prodevelop.es/svn/I1803_Framework_PUI9/src/branches</scm-branch-base>
 
