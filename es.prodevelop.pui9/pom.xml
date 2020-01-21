@@ -25,9 +25,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:svn:https://svn.prodevelop.es/svn/I1803_Framework_PUI9/src/trunk/es.prodevelop.pui9</connection>
-		<developerConnection>scm:svn:https://svn.prodevelop.es/svn/I1803_Framework_PUI9/src/trunk/es.prodevelop.pui9</developerConnection>
-		<url>https://svn.prodevelop.es/svn/I1803_Framework_PUI9/src/trunk/es.prodevelop.pui9</url>
+		<connection>scm:git:git://github.com/Prodevelop/pui9-server.git</connection>
+		<developerConnection>scm:git:ssh://github.com/Prodevelop/pui9-server.git</developerConnection>
+		<url>https://github.com/Prodevelop/pui9-server</url>
 	</scm>
 
 	<properties>
